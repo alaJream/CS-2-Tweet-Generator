@@ -85,7 +85,6 @@ class LinkedList(object):
         # TODO: Otherwise raise error to tell user that delete has failed
         # Hint: raise ValueError('Item not found: {}'.format(item))
 
-
 def test_linked_list():
     ll = LinkedList()
     print('list: {}'.format(ll))
@@ -118,3 +117,4 @@ if __name__ == '__main__':
     test_linked_list()
 
 
+# trying to commit change for first commit
